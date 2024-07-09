@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pankaj kumar
 - 👀 I’m interested in Techs, AI, Gaming, Listen to music, Solving Problems and lot more.
-- 🌱 I’m currently learning Mern Stack
+- 🌱 I’m currently learning with help from docs.github.com
 - 💞️ I’m looking to collaborate on Mern Stack and AI-ML.
 - 📫 How to reach me pk338716@gmail.com/dosilentlove@gmail.com
 - 😄 Pronouns: he/him
